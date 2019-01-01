@@ -1,0 +1,11 @@
+:root {
+    --nav-h: 50px;
+    --shadow: 2px 5px 5px 2px #303030;
+    --border: 1px solid #303030;
+    --b-radius: 10px;
+}
+
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+}
